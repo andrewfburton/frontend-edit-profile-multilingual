@@ -29,10 +29,10 @@ if(!(function_exists('_wp_get_user_contactmethods'))){
 	require_once(ABSPATH.'/wp-includes/registration.php');
 }
 //Enable Localization - forgotten by the plugin author
-function ap_action_init() {
+function fep_textdomain_init() {
 	load_plugin_textdomain('fep', false, basename( dirname( __FILE__ ) ) . '/languages' );
 }
-add_action('init', 'ap_action_init');
+add_action('init', 'fep_textdomain_init');
 
 class FRONTEND_EDIT_PROFILE{
 	
