@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Frontend Edit Profile Multilingual v1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-02-07 16:16:35+0000\n"
+"Last-Translator: afe_2014_plusfifty <andreas.feuz@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: _form.php:25
+#@ fep
+msgid "Name"
+msgstr "Name"
+
+#: _form.php:29
+#: _form.php:57
+#: login_form.php:4
+#@ fep
+msgid "Username"
+msgstr "Benutzername"
+
+#: _form.php:32
+#: _form.php:58
+#@ fep
+msgid "Usernames cannot be changed."
+msgstr "Benutzernamen können leider nicht geändert werden."
+
+#: _form.php:37
+#: _form.php:61
+#@ fep
+msgid "First Name"
+msgstr "Vorname"
+
+#: _form.php:45
+#: _form.php:66
+#@ fep
+msgid "Last Name"
+msgstr "Nachname"
+
+#: _form.php:71
+#@ fep
+msgid "Nickname"
+msgstr "Forumname"
+
+#: _form.php:71
+#: _form.php:110
+#@ fep
+msgid "(required)"
+msgstr "(wird benötigt)"
+
+#: _form.php:76
+#@ fep
+msgid "Display to Public as"
+msgstr "Öffentlich zeigen als"
+
+#: _form.php:106
+#@ fep
+msgid "Contact Info"
+msgstr "Kontaktinfo"
+
+#: _form.php:110
+#@ fep
+msgid "E-mail"
+msgstr "Email-Adresse"
+
+#: _form.php:116
+#, php-format
+#@ fep
+msgid "There is a pending change of your e-mail to <code>%1$s</code>. <a href=\"%2$s\">Cancel</a>"
+msgstr "Es gibt eine pendende Änderungen deiner Email-Adresse auf <code>%1$s</code>. <a href=\"%2$s\">Stornieren</a>"
+
+#: _form.php:123
+#@ fep
+msgid "Website"
+msgstr "Webseite"
+
+#: _form.php:149
+#@ fep
+msgid "About Yourself"
+msgstr "Über Dich"
+
+#: _form.php:159
+#@ fep
+msgid "Biographical Info"
+msgstr "Bio"
+
+#: _form.php:161
+#@ fep
+msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
+msgstr "Wenn du möchtest, teile ein wenig deine Bio. Wird im Forum gezeigt, wenn jemand dein Profil klickt."
+
+#: _form.php:172
+#@ fep
+msgid "New Password"
+msgstr "Neues Passwort"
+
+#: _form.php:172
+#@ fep
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr "Zum Ändern des Passworts, tippe ein Neues. Ansonsten leerlassen."
+
+#: _form.php:175
+#@ fep
+msgid "Type your new password again."
+msgstr "Zur Bestätigung tipp das neue Passwort nochmals."
+
+#: _form.php:179
+#@ fep
+msgid "Strength indicator"
+msgstr "Passwortstärke-Indikator"
+
+#: _form.php:189
+#@ fep
+msgid "The password should be at least seven characters long."
+msgstr "Das Passwort sollte mindestens 7 Zeichen lang sein."
+
+#: _form.php:190
+#@ fep
+msgid "To make it stronger, use upper and lower case letters, numbers and symbols like ! \" ? $ % ^ &amp; )."
+msgstr "Um es stärker zu machen, benütz Gross- und Kleinbuchstaben, Zahlen und Symbole wie ! \" ? $ % ^ &amp; )."
+
+#: _form.php:209
+#@ fep
+msgid "Additional Capabilities"
+msgstr "Zusätzliche Möglichkeiten"
+
+#: _form.php:228
+#@ fep
+msgid "Update Profile"
+msgstr "Profil Aktualisieren"
+
+#: admin_form.php:4
+#@ fep
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: admin_form.php:13
+#@ fep
+msgid "Show Password Indicator"
+msgstr "Passwort-Indikator Anzeigen"
+
+#: admin_form.php:17
+#@ fep
+msgid "Show Password Hint"
+msgstr "Passwortandeutung Anzeigen"
+
+#: admin_form.php:21
+#@ fep
+msgid "Custom Password Hint"
+msgstr "Benutzerdefinierter Passworthinweis"
+
+#: admin_form.php:31
+#@ fep
+msgid "Show Login Form"
+msgstr "Login-Formular Anzeigen"
+
+#: admin_form.php:35
+#@ fep
+msgid "Not Logged in Text"
+msgstr "Nichteingeloggt-Text"
+
+#: admin_form.php:39
+#@ fep
+msgid "Login URL"
+msgstr "Login-URL"
+
+#: admin_form.php:43
+#@ fep
+msgid "Logout URL"
+msgstr "Logout-URL"
+
+#: admin_form.php:47
+#@ fep
+msgid "Lost Password URL"
+msgstr "URL Verlorenes Passwort"
+
+#: admin_form.php:51
+#@ fep
+msgid "Register URL"
+msgstr "Registrier-URL"
+
+#: admin_form.php:56
+#@ fep
+msgid "Disable Contact Methods"
+msgstr "Kontaktmethoden Deaktivieren"
+
+#: admin_form.php:57
+#@ fep
+msgid "Click to disable contact methods in profile page"
+msgstr "Klicken um die Kontaktmethoden auf der Profilseite zu deaktivieren"
+
+#: admin_form.php:78
+#@ fep
+msgid "Save Changes"
+msgstr "Änderungen Sichern"
+
+#: fep.php:126
+#@ fep
+msgid "Skype"
+msgstr "Skype"
+
+#: fep.php:127
+#@ fep
+msgid "Twitter"
+msgstr "Twitter"
+
+#: fep.php:128
+#@ fep
+msgid "Yahoo"
+msgstr "Yahoo!"
+
+#: fep.php:129
+#@ fep
+msgid "AIM"
+msgstr "AIM"
+
+#: fep.php:301
+#@ fep
+msgid "<strong>Success</strong>: Profile updated"
+msgstr "<strong>Erfolg</strong>: Profil aktualisiert"
+
+#: fep.php:363
+#@ fep
+msgid "<strong>ERROR</strong>: Empty username"
+msgstr "<strong>Fehler</strong>: Leerer Benutzername"
+
+#: fep.php:368
+#@ fep
+msgid "<strong>ERROR</strong>: Empty password"
+msgstr "<strong>Fehler</strong>: Leeres Passwort"
+
+#: fep.php:378
+#@ fep
+msgid "<strong>ERROR</strong>: Invalid username"
+msgstr "<strong>Fehler</strong>: Ungülter Benutzername"
+
+#: fep.php:381
+#@ fep
+msgid "<strong>ERROR</strong>: Incorrect password"
+msgstr "<strong>Fehler</strong>: Falsches Passwort"
+
+#: loggedin_form.php:2
+#@ fep
+msgid "Your Profile"
+msgstr "Dein Profil"
+
+#: loggedin_form.php:3
+#@ fep
+msgid "Logout"
+msgstr "Logout"
+
+#: login_form.php:6
+#@ fep
+msgid "Password"
+msgstr "Passwort"
+
+#: login_form.php:8
+#@ fep
+msgid "Remember me"
+msgstr "Erinnere dich an mich"
+
+#: login_form.php:11
+#@ fep
+msgid "Logged me in"
+msgstr "Eingeloggt"
+
+#: login_form.php:14
+#@ fep
+msgid "Don't have account? Register."
+msgstr "Hast du noch kein Konto? Registrier dich einfach."
+
+#: widget.php:5
+#@ fep
+msgid "Display login widget on sidebar "
+msgstr "Login-Widget im Sidebar Anzeigen"
+
+#: widget.php:23
+#@ fep
+msgid "Title:"
+msgstr "Titel:"
+
+#: widget.php:29
+#@ fep
+msgid "Show Register Link"
+msgstr "Registrier-Link Anzeigen"
+
+#: widget.php:34
+#@ fep
+msgid "Hide widget when user logged in"
+msgstr "Widget verstecken, wenn der Benutzer eingeloggt ist"
+
+#: admin_form.php:9
+#@ fep
+msgid "Show Biographical Info"
+msgstr ""
+
